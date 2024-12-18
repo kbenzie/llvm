@@ -1,0 +1,4 @@
+{{OPT}}urUSMDeviceAllocTest.InvalidUSMSize/*
+{{OPT}}urUSMHostAllocTest.InvalidUSMSize/*
+{{OPT}}urUSMPoolCreateTest.SuccessWithFlag/*
+{{OPT}}urUSMSharedAllocTest.InvalidUSMSize/*

@@ -1,0 +1,6 @@
+{{OPT}}urPhysicalMemCreateWithSizeParamTest.Success/*
+urPhysicalMemCreateWithSizeParamTest.InvalidSize/*
+urPhysicalMemGetInfoTest.Context/*
+urPhysicalMemGetInfoTest.Device/*
+urPhysicalMemGetInfoTest.Size/*
+urPhysicalMemGetInfoTest.Properties/*

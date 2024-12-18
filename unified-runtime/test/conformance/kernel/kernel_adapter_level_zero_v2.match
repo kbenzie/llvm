@@ -1,0 +1,4 @@
+urKernelSetExecInfoTest.SuccessIndirectAccess/*
+urKernelSetExecInfoUSMPointersTest.SuccessHost/*
+urKernelSetExecInfoUSMPointersTest.SuccessDevice/*
+urKernelSetExecInfoUSMPointersTest.SuccessShared/*

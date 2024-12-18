@@ -1,0 +1,6 @@
+urKernelGetGroupInfoWgSizeTest.CompileWorkGroupSize/*
+{{OPT}}urKernelSetArgLocalTest.InvalidKernelArgumentIndex/*
+{{OPT}}urKernelSetArgMemObjTest.InvalidKernelArgumentIndex/*
+{{OPT}}urKernelSetArgPointerNegativeTest.InvalidKernelArgumentIndex/*
+{{OPT}}urKernelSetArgSamplerTest.InvalidKernelArgumentIndex/*
+{{OPT}}urKernelSetArgValueTest.InvalidKernelArgumentIndex/*
