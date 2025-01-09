@@ -67,6 +67,10 @@ set(UR_ADAPTER_HIP_SOURCE_DIR "" CACHE PATH
     "Path to external 'hip' adapter source dir")
 set(UR_ADAPTER_NATIVE_CPU_SOURCE_DIR "" CACHE PATH
     "Path to external 'native_cpu' adapter source dir")
+if(CMAKE_SYSTEM_NAME STREQUAL Windows)
+    set(UR_DEPENDENTLOADFLAG "0x2000" CACHE STRING
+        "Value to use for Windows link.exe /DEPENDENTLOADFLAG option")
+endif()
 
 list(APPEND CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 include(helpers)
